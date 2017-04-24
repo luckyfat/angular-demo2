@@ -1,0 +1,16 @@
+<header class="header">
+    <span>关闭</span>
+    <h2>50家店铺</h2>
+</header>
+
+<nav class="nav" id="nav">
+    <ul class="box">
+        <li class="box-item" ng-click="arrange('star')" ui-sref-active="on" ui-sref="list.distance"><a href="javascript:;">距离</a></li>
+        <li class="box-item" ui-sref-active="on" ui-sref="list.judgement"><a href="javascript:;">点评</a></li>
+        <li class="box-item" ui-sref-active="on" ui-sref="list.sale"><a href="javascript:;">销量</a></li>
+    </ul>
+</nav>
+
+<section class="content box-item" ui-view>
+
+</section>

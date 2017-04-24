@@ -1,0 +1,16 @@
+<div>
+    <div class="info">
+        <dl ng-repeat="i in arr | orderBy:type:desc">
+            <dt class="float-left mr10" cid="{{i.id}}" ng-click="goDetail(i.id)"><img ng-src="{{i.img}}" alt=""/></dt>
+            <dd>
+                <h1>{{i.name}}</h1>
+                <div class="pingjia">
+                    <i class="fa fa-star" ng-repeat="m in i.starArray" ng-class="($index)<i.star?'yellow':'gray'"></i>
+                </div>
+                <p class="p1">月售 12份 <span><em>{{i.sendStart}}</em>起送</span></p>
+                <p class="p2"><i>{{i.time}}</i>分钟 <i>{{i.distance}}</i>千米 <span>配送 <i>{{i.sendPrice}}</i>元</span>
+                </p>
+            </dd>
+        </dl>
+    </div>
+</div>

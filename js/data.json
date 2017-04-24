@@ -1,0 +1,82 @@
+[
+  {
+    "img": "images/img_03.jpg",
+    "name": "嘉禾一品（中关村店）",
+    "star": 3,
+    "sendStart": 25,
+    "time": 43,
+    "distance": 173,
+    "sendPrice": 6,
+    "id":1
+  },
+  {
+    "img": "images/img_06.jpg",
+    "name": "肯德基（中关村店）",
+    "star": 4,
+    "sendStart": "45元",
+    "time": 43,
+    "distance": 273,
+    "sendPrice": 6,
+    "id":2
+  },
+  {
+    "img": "images/img_08.jpg",
+    "name": "必胜客（中关海龙店）",
+    "star": 4,
+    "sendStart": "35元",
+    "time": 43,
+    "distance": 373,
+    "sendPrice": 6,
+    "id":3
+  },
+  {
+    "img": "images/img_10.jpg",
+    "name": "星巴克（海龙店）",
+    "star": 1,
+    "sendStart": "35元",
+    "time": 43,
+    "distance": 500,
+    "sendPrice": 6,
+    "id":4
+  },
+  {
+    "img": "images/img_03.jpg",
+    "name": "嘉禾一品（中关村店）",
+    "star": 2,
+    "sendStart": "25元",
+    "time": 43,
+    "distance": 473,
+    "sendPrice": 6,
+    "id":5
+  },
+  {
+    "img": "images/img_06.jpg",
+    "name": "肯德基（中关村店）",
+    "star": 4,
+    "sendStart": "45元",
+    "time": 43,
+    "distance": 573,
+    "sendPrice": 6,
+    "id":6
+  },
+  {
+    "img": "images/img_08.jpg",
+    "name": "必胜客（中关海龙店）",
+    "star": 5,
+    "sendStart": "35元",
+    "time": 43,
+    "distance": 573,
+    "sendPrice": 6,
+    "id":7
+  },
+  {
+    "img": "images/img_10.jpg",
+    "name": "星巴克（海龙店）",
+    "star": 2,
+    "sendStart": "35元",
+    "time": 43,
+    "distance": 573,
+    "sendPrice": 6,
+    "id":8
+  }
+]
